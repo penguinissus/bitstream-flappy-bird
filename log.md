@@ -24,4 +24,5 @@ Continued with tutorial. Finished module flappy_bird_top. Finished module gameCo
 Date: 09/12/2025  
 Time range: 11:00-11:20
 Description:  
-Tried out the all the editors on the bitstream website. Can't figure out why it originally works, and once I paste my code (which is essentially the same as the example on the website) it doesn't work. Also sometimes I make minor edits on the website, it would work, and sometimes it wouldn't. Can't figure out why, will ask on slack.  
+Tried out the all the editors on the bitstream website. Can't figure out why it originally works, and once I paste my code (which is essentially the same as the example on the website) it doesn't work. Also sometimes I make minor edits on the website, it would work, and sometimes it wouldn't. Can't figure out why, will ask on slack.   
+<img width="1178" height="719" alt="image" src="https://github.com/user-attachments/assets/64a0f7b5-33fe-416d-818d-d923c20776ab" />
