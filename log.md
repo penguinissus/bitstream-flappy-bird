@@ -7,8 +7,15 @@ Created repo, connected bitstream editor to github. Initialized flappy_bird_top 
 
 # Hour 2
 Date: 09/11/2025  
-Time range: 6:00-7:00  
+Time range: 18:00-19:00  
 Description:  
 For some reason everything I committed before has disappeared? Restarted with a better way of saving things.  
 Caught up, and got to part 18 of tutorial  
 <img width="739" height="552" alt="image" src="https://github.com/user-attachments/assets/9776af93-2e20-4287-bc18-ad4001b9ea8b" />
+
+# Hour 3
+Date: 09/12/2025  
+Time range: 10:00-11:00  
+Description:  
+Continued with tutorial. Finished module flappy_bird_top. Finished module gameControl. went through the entire tutorial.  Can't figure out how to playtest.   
+<img width="1178" height="719" alt="image" src="https://github.com/user-attachments/assets/25d2de1a-00bd-4273-abc3-f1ae2d1b0ac3" />
