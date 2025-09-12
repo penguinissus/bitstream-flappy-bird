@@ -96,4 +96,27 @@ module flappy_bird_top (
   //Bottom pipe (from hole_pos+100 to bottom of screen)
   wire bottom_pipe = in_pipe_x && (pix_y > hole_pos+100);
   assign pipe_active = top_pipe || bottom_pipe;
-  assign hole_active = in_pipe_x && (pix_y >== hole_pos) && (pix_y <= hole_pos+100);
+  assign hole_active = in_pipe_x && (pix_y >= hole_pos) && (pix_y <= hole_pos+100);
+  //RGB output logic
+  always@(posedge clk) begin
+    if (~rst_n) begin
+      R <= 0;
+      G <= 0;
+      B <= 0;
+    end else begin
+      if (video_active) begin
+        if (bird_active) begin
+          {R, G, B} <= YELLOW; //Yellow bird
+        end else if (pipe_active) begin
+          {R, G, B} <= GREEN; //Green pipes
+        end else if (hole_active) begin
+          {R, G, B} <= BLUE; //Blue hole area
+        end else begin
+          {R, G, B} <= BLACK; //Black background
+        end
+      end else begin
+        {R, G, B} <= 0;
+      end
+    end
+  end
+endmodule
