@@ -35,5 +35,12 @@ Started coming up with ideas for added features
 
 # Hour 5
 Date: 09/13/2025  
-Time range: 10:40-  
-Description
+Time range: 10:40-11:40  
+Description:  
+May or may not have figured out what the warning was about    
+<img width="356" height="124" alt="image" src="https://github.com/user-attachments/assets/c5ed3ac2-f0c9-42b5-af8d-255ed0e60a2f" />
+
+# Hour 6
+Date: 09/13/2025
+Time range: 11:40-  
+Description:  
