@@ -40,8 +40,8 @@ Description:
 May or may not have figured out what the warning was about    
 <img width="356" height="124" alt="image" src="https://github.com/user-attachments/assets/c5ed3ac2-f0c9-42b5-af8d-255ed0e60a2f" />
 
-# Hour 6
+# Hour 6: 35 Minutes
 Date: 09/13/2025
-Time range: 11:40-  
+Time range: 11:40-12:15
 Description:  
-Unfortunately idea did not work (adding gamepad_pmod.v file). Will be comparing code line to line. 
+Unfortunately idea did not work (adding gamepad_pmod.v file). Compared my code to the example line to line, everything is the same except once i paste my version into the editor it doesn't work. Getting help on slack.  
