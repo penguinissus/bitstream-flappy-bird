@@ -44,3 +44,4 @@ May or may not have figured out what the warning was about
 Date: 09/13/2025
 Time range: 11:40-  
 Description:  
+Unfortunately idea did not work (adding gamepad_pmod.v file). Will be comparing code line to line. 
