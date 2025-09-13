@@ -2,7 +2,7 @@
  * Copyright (c) 2025 Jocelyn Lau
  */
 
-default_nettype none
+`default_nettype none
 module flappy_bird_top (
     input  wire [7:0] ui_in,   //Dedicated inputs
     output wire [7:0] uo_out,  //Dedicated outputs
