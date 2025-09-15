@@ -45,3 +45,10 @@ Date: 09/13/2025
 Time range: 11:40-12:15
 Description:  
 Unfortunately idea did not work (adding gamepad_pmod.v file). Compared my code to the example line to line, everything is the same except once i paste my version into the editor it doesn't work. Getting help on slack.  
+
+# Hour 6: 25 Minutes
+Date: 09/14/2025  
+Time range: 20:45-21:10  
+Description:  
+Figured out what was missing from my code.  
+<img width="638" height="443" alt="image" src="https://github.com/user-attachments/assets/d211fc0a-8f60-4e26-8df0-4f2af1e270c8" />
