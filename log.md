@@ -52,3 +52,9 @@ Time range: 20:45-21:10
 Description:  
 Figured out what was missing from my code.  
 <img width="638" height="443" alt="image" src="https://github.com/user-attachments/assets/d211fc0a-8f60-4e26-8df0-4f2af1e270c8" />
+
+# Hour 7: 30 Minutes
+Date: 09/15/2025  
+Time range: 15:00-15:30  
+Description:  
+Messed around with chatgpt for ideas. And looked around on other websites for examples  
